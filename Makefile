@@ -198,6 +198,7 @@ UPROGS=\
 	$U/_pingpong\
 	$U/_primes1\
 	$U/_primes\
+	$U/_find\
 
 
 ifeq ($(LAB),$(filter $(LAB), pgtbl lock))
